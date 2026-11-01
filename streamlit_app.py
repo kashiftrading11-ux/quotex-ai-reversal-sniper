@@ -17,7 +17,7 @@ from telegram.ext import (
 # ==========================================
 # CONFIGURATION & SETTINGS
 # ==========================================
-BOT_TOKEN = "9064665839:AAGwmEnfcurWY5tfVUlU-atrSw3OBcRRtls"  # Apna Telegram Bot Token yahan dalein
+BOT_TOKEN = "9108326740:AAHWWX3mKNsZizrwlIr3uma2vdEIJPCobak"  # Apna Telegram Bot Token yahan dalein
 
 # 25 Pairs (6 Live Forex + 19 Quotex OTC Pairs)
 PAIRS = {
